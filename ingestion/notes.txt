@@ -1,0 +1,2 @@
+https://www.digitalocean.com/community/tutorials/how-to-install-postgresql-on-ubuntu-20-04-quickstart
+https://pynative.com/python-postgresql-insert-update-delete-table-data-to-perform-crud-operations/
