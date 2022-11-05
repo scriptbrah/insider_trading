@@ -1,0 +1,3006 @@
+A:
+  CIK: 1090872
+  Name: Agilent Technologies
+  Sector: Health Care
+  Symbol: A
+  Watch: false
+AAL:
+  CIK: 6201
+  Name: American Airlines Group
+  Sector: Industrials
+  Symbol: AAL
+  Watch: false
+AAP:
+  CIK: 1158449
+  Name: Advance Auto Parts
+  Sector: Consumer Discretionary
+  Symbol: AAP
+  Watch: false
+AAPL:
+  CIK: 320193
+  Name: Apple
+  Sector: Information Technology
+  Symbol: AAPL
+  Watch: false
+ABBV:
+  CIK: 1551152
+  Name: AbbVie
+  Sector: Health Care
+  Symbol: ABBV
+  Watch: false
+ABC:
+  CIK: 1140859
+  Name: AmerisourceBergen
+  Sector: Health Care
+  Symbol: ABC
+  Watch: false
+ABMD:
+  CIK: 815094
+  Name: Abiomed
+  Sector: Health Care
+  Symbol: ABMD
+  Watch: false
+ABT:
+  CIK: 1800
+  Name: Abbott Laboratories
+  Sector: Health Care
+  Symbol: ABT
+  Watch: false
+ACN:
+  CIK: 1467373
+  Name: Accenture
+  Sector: Information Technology
+  Symbol: ACN
+  Watch: false
+ADBE:
+  CIK: 796343
+  Name: Adobe
+  Sector: Information Technology
+  Symbol: ADBE
+  Watch: false
+ADI:
+  CIK: 6281
+  Name: Analog Devices
+  Sector: Information Technology
+  Symbol: ADI
+  Watch: false
+ADM:
+  CIK: 7084
+  Name: ADM
+  Sector: Consumer Staples
+  Symbol: ADM
+  Watch: false
+ADP:
+  CIK: 8670
+  Name: Automatic Data Processing
+  Sector: Information Technology
+  Symbol: ADP
+  Watch: false
+ADSK:
+  CIK: 769397
+  Name: Autodesk
+  Sector: Information Technology
+  Symbol: ADSK
+  Watch: false
+AEE:
+  CIK: 1002910
+  Name: Ameren Corp
+  Sector: Utilities
+  Symbol: AEE
+  Watch: false
+AEP:
+  CIK: 4904
+  Name: American Electric Power
+  Sector: Utilities
+  Symbol: AEP
+  Watch: false
+AES:
+  CIK: 874761
+  Name: AES Corp
+  Sector: Utilities
+  Symbol: AES
+  Watch: false
+AFL:
+  CIK: 4977
+  Name: Aflac
+  Sector: Financials
+  Symbol: AFL
+  Watch: false
+AIG:
+  CIK: 5272
+  Name: American International Group
+  Sector: Financials
+  Symbol: AIG
+  Watch: false
+AIZ:
+  CIK: 1267238
+  Name: Assurant
+  Sector: Financials
+  Symbol: AIZ
+  Watch: false
+AJG:
+  CIK: 354190
+  Name: Arthur J. Gallagher & Co.
+  Sector: Financials
+  Symbol: AJG
+  Watch: false
+AKAM:
+  CIK: 1086222
+  Name: Akamai Technologies
+  Sector: Information Technology
+  Symbol: AKAM
+  Watch: false
+ALB:
+  CIK: 915913
+  Name: Albemarle Corporation
+  Sector: Materials
+  Symbol: ALB
+  Watch: false
+ALGN:
+  CIK: 1097149
+  Name: Align Technology
+  Sector: Health Care
+  Symbol: ALGN
+  Watch: false
+ALK:
+  CIK: 766421
+  Name: Alaska Air Group
+  Sector: Industrials
+  Symbol: ALK
+  Watch: false
+ALL:
+  CIK: 899051
+  Name: Allstate Corp
+  Sector: Financials
+  Symbol: ALL
+  Watch: false
+ALLE:
+  CIK: 1579241
+  Name: Allegion
+  Sector: Industrials
+  Symbol: ALLE
+  Watch: false
+AMAT:
+  CIK: 6951
+  Name: Applied Materials
+  Sector: Information Technology
+  Symbol: AMAT
+  Watch: false
+AMCR:
+  CIK: 1748790
+  Name: Amcor
+  Sector: Materials
+  Symbol: AMCR
+  Watch: false
+AMD:
+  CIK: 2488
+  Name: Advanced Micro Devices
+  Sector: Information Technology
+  Symbol: AMD
+  Watch: false
+AME:
+  CIK: 1037868
+  Name: Ametek
+  Sector: Industrials
+  Symbol: AME
+  Watch: false
+AMGN:
+  CIK: 318154
+  Name: Amgen
+  Sector: Health Care
+  Symbol: AMGN
+  Watch: false
+AMP:
+  CIK: 820027
+  Name: Ameriprise Financial
+  Sector: Financials
+  Symbol: AMP
+  Watch: false
+AMT:
+  CIK: 1053507
+  Name: American Tower
+  Sector: Real Estate
+  Symbol: AMT
+  Watch: false
+AMZN:
+  CIK: 1018724
+  Name: Amazon
+  Sector: Consumer Discretionary
+  Symbol: AMZN
+  Watch: false
+ANET:
+  CIK: 1596532
+  Name: Arista Networks
+  Sector: Information Technology
+  Symbol: ANET
+  Watch: false
+ANSS:
+  CIK: 1013462
+  Name: Ansys
+  Sector: Information Technology
+  Symbol: ANSS
+  Watch: false
+ANTM:
+  CIK: 1156039
+  Name: Anthem
+  Sector: Health Care
+  Symbol: ANTM
+  Watch: false
+AON:
+  CIK: 315293
+  Name: Aon
+  Sector: Financials
+  Symbol: AON
+  Watch: false
+AOS:
+  CIK: 91142
+  Name: A. O. Smith
+  Sector: Industrials
+  Symbol: AOS
+  Watch: false
+APA:
+  CIK: 6769
+  Name: APA Corporation
+  Sector: Energy
+  Symbol: APA
+  Watch: false
+APD:
+  CIK: 2969
+  Name: Air Products & Chemicals
+  Sector: Materials
+  Symbol: APD
+  Watch: false
+APH:
+  CIK: 820313
+  Name: Amphenol
+  Sector: Information Technology
+  Symbol: APH
+  Watch: false
+APTV:
+  CIK: 1521332
+  Name: Aptiv
+  Sector: Consumer Discretionary
+  Symbol: APTV
+  Watch: false
+ARE:
+  CIK: 1035443
+  Name: Alexandria Real Estate Equities
+  Sector: Real Estate
+  Symbol: ARE
+  Watch: false
+ATO:
+  CIK: 731802
+  Name: Atmos Energy
+  Sector: Utilities
+  Symbol: ATO
+  Watch: false
+ATVI:
+  CIK: 718877
+  Name: Activision Blizzard
+  Sector: Communication Services
+  Symbol: ATVI
+  Watch: false
+AVB:
+  CIK: 915912
+  Name: AvalonBay Communities
+  Sector: Real Estate
+  Symbol: AVB
+  Watch: false
+AVGO:
+  CIK: 1730168
+  Name: Broadcom
+  Sector: Information Technology
+  Symbol: AVGO
+  Watch: false
+AVY:
+  CIK: 8818
+  Name: Avery Dennison
+  Sector: Materials
+  Symbol: AVY
+  Watch: false
+AWK:
+  CIK: 1410636
+  Name: American Water Works
+  Sector: Utilities
+  Symbol: AWK
+  Watch: false
+AXP:
+  CIK: 4962
+  Name: American Express
+  Sector: Financials
+  Symbol: AXP
+  Watch: false
+AZO:
+  CIK: 866787
+  Name: AutoZone
+  Sector: Consumer Discretionary
+  Symbol: AZO
+  Watch: false
+BA:
+  CIK: 12927
+  Name: Boeing
+  Sector: Industrials
+  Symbol: BA
+  Watch: false
+BAC:
+  CIK: 70858
+  Name: Bank of America
+  Sector: Financials
+  Symbol: BAC
+  Watch: false
+BAX:
+  CIK: 10456
+  Name: Baxter International
+  Sector: Health Care
+  Symbol: BAX
+  Watch: false
+BBY:
+  CIK: 764478
+  Name: Best Buy
+  Sector: Consumer Discretionary
+  Symbol: BBY
+  Watch: false
+BDX:
+  CIK: 10795
+  Name: Becton Dickinson
+  Sector: Health Care
+  Symbol: BDX
+  Watch: false
+BEN:
+  CIK: 38777
+  Name: Franklin Resources
+  Sector: Financials
+  Symbol: BEN
+  Watch: false
+BIIB:
+  CIK: 875045
+  Name: Biogen
+  Sector: Health Care
+  Symbol: BIIB
+  Watch: false
+BIO:
+  CIK: 12208
+  Name: Bio-Rad Laboratories
+  Sector: Health Care
+  Symbol: BIO
+  Watch: false
+BK:
+  CIK: 1390777
+  Name: BNY Mellon
+  Sector: Financials
+  Symbol: BK
+  Watch: false
+BKNG:
+  CIK: 1075531
+  Name: Booking Holdings
+  Sector: Consumer Discretionary
+  Symbol: BKNG
+  Watch: false
+BKR:
+  CIK: 1701605
+  Name: Baker Hughes
+  Sector: Energy
+  Symbol: BKR
+  Watch: false
+BLK:
+  CIK: 1364742
+  Name: BlackRock
+  Sector: Financials
+  Symbol: BLK
+  Watch: false
+BLL:
+  CIK: 9389
+  Name: Ball Corp
+  Sector: Materials
+  Symbol: BLL
+  Watch: false
+BMY:
+  CIK: 14272
+  Name: Bristol Myers Squibb
+  Sector: Health Care
+  Symbol: BMY
+  Watch: false
+BR:
+  CIK: 1383312
+  Name: Broadridge Financial Solutions
+  Sector: Information Technology
+  Symbol: BR
+  Watch: false
+BRO:
+  CIK: 79282
+  Name: Brown & Brown
+  Sector: Financials
+  Symbol: BRO
+  Watch: false
+BSX:
+  CIK: 885725
+  Name: Boston Scientific
+  Sector: Health Care
+  Symbol: BSX
+  Watch: false
+BWA:
+  CIK: 908255
+  Name: BorgWarner
+  Sector: Consumer Discretionary
+  Symbol: BWA
+  Watch: false
+BXP:
+  CIK: 1037540
+  Name: Boston Properties
+  Sector: Real Estate
+  Symbol: BXP
+  Watch: false
+C:
+  CIK: 831001
+  Name: Citigroup
+  Sector: Financials
+  Symbol: C
+  Watch: false
+CAG:
+  CIK: 23217
+  Name: Conagra Brands
+  Sector: Consumer Staples
+  Symbol: CAG
+  Watch: false
+CAH:
+  CIK: 721371
+  Name: Cardinal Health
+  Sector: Health Care
+  Symbol: CAH
+  Watch: false
+CARR:
+  CIK: 1783180
+  Name: Carrier Global
+  Sector: Industrials
+  Symbol: CARR
+  Watch: false
+CAT:
+  CIK: 18230
+  Name: Caterpillar
+  Sector: Industrials
+  Symbol: CAT
+  Watch: false
+CB:
+  CIK: 896159
+  Name: Chubb
+  Sector: Financials
+  Symbol: CB
+  Watch: false
+CBOE:
+  CIK: 1374310
+  Name: Cboe Global Markets
+  Sector: Financials
+  Symbol: CBOE
+  Watch: false
+CBRE:
+  CIK: 1138118
+  Name: CBRE
+  Sector: Real Estate
+  Symbol: CBRE
+  Watch: false
+CCI:
+  CIK: 1051470
+  Name: Crown Castle
+  Sector: Real Estate
+  Symbol: CCI
+  Watch: false
+CCL:
+  CIK: 815097
+  Name: Carnival Corporation
+  Sector: Consumer Discretionary
+  Symbol: CCL
+  Watch: false
+CDAY:
+  CIK: 1725057
+  Name: Ceridian
+  Sector: Information Technology
+  Symbol: CDAY
+  Watch: false
+CDNS:
+  CIK: 813672
+  Name: Cadence Design Systems
+  Sector: Information Technology
+  Symbol: CDNS
+  Watch: false
+CDW:
+  CIK: 1402057
+  Name: CDW
+  Sector: Information Technology
+  Symbol: CDW
+  Watch: false
+CE:
+  CIK: 1306830
+  Name: Celanese
+  Sector: Materials
+  Symbol: CE
+  Watch: false
+CERN:
+  CIK: 804753
+  Name: Cerner
+  Sector: Health Care
+  Symbol: CERN
+  Watch: false
+CF:
+  CIK: 1324404
+  Name: CF Industries
+  Sector: Materials
+  Symbol: CF
+  Watch: false
+CFG:
+  CIK: 759944
+  Name: Citizens Financial Group
+  Sector: Financials
+  Symbol: CFG
+  Watch: false
+CHD:
+  CIK: 313927
+  Name: Church & Dwight
+  Sector: Consumer Staples
+  Symbol: CHD
+  Watch: false
+CHRW:
+  CIK: 1043277
+  Name: C. H. Robinson
+  Sector: Industrials
+  Symbol: CHRW
+  Watch: false
+CHTR:
+  CIK: 1091667
+  Name: Charter Communications
+  Sector: Communication Services
+  Symbol: CHTR
+  Watch: false
+CI:
+  CIK: 1739940
+  Name: Cigna
+  Sector: Health Care
+  Symbol: CI
+  Watch: false
+CINF:
+  CIK: 20286
+  Name: Cincinnati Financial
+  Sector: Financials
+  Symbol: CINF
+  Watch: false
+CL:
+  CIK: 21665
+  Name: Colgate-Palmolive
+  Sector: Consumer Staples
+  Symbol: CL
+  Watch: false
+CLX:
+  CIK: 21076
+  Name: Clorox
+  Sector: Consumer Staples
+  Symbol: CLX
+  Watch: false
+CMA:
+  CIK: 28412
+  Name: Comerica
+  Sector: Financials
+  Symbol: CMA
+  Watch: false
+CMCSA:
+  CIK: 1166691
+  Name: Comcast
+  Sector: Communication Services
+  Symbol: CMCSA
+  Watch: false
+CME:
+  CIK: 1156375
+  Name: CME Group
+  Sector: Financials
+  Symbol: CME
+  Watch: false
+CMG:
+  CIK: 1058090
+  Name: Chipotle Mexican Grill
+  Sector: Consumer Discretionary
+  Symbol: CMG
+  Watch: false
+CMI:
+  CIK: 26172
+  Name: Cummins
+  Sector: Industrials
+  Symbol: CMI
+  Watch: false
+CMS:
+  CIK: 811156
+  Name: CMS Energy
+  Sector: Utilities
+  Symbol: CMS
+  Watch: false
+CNC:
+  CIK: 1071739
+  Name: Centene Corporation
+  Sector: Health Care
+  Symbol: CNC
+  Watch: false
+CNP:
+  CIK: 1130310
+  Name: CenterPoint Energy
+  Sector: Utilities
+  Symbol: CNP
+  Watch: false
+COF:
+  CIK: 927628
+  Name: Capital One Financial
+  Sector: Financials
+  Symbol: COF
+  Watch: false
+COO:
+  CIK: 711404
+  Name: The Cooper Companies
+  Sector: Health Care
+  Symbol: COO
+  Watch: false
+COP:
+  CIK: 1163165
+  Name: ConocoPhillips
+  Sector: Energy
+  Symbol: COP
+  Watch: false
+COST:
+  CIK: 909832
+  Name: Costco
+  Sector: Consumer Staples
+  Symbol: COST
+  Watch: false
+CPB:
+  CIK: 16732
+  Name: Campbell Soup
+  Sector: Consumer Staples
+  Symbol: CPB
+  Watch: false
+CPRT:
+  CIK: 900075
+  Name: Copart
+  Sector: Industrials
+  Symbol: CPRT
+  Watch: false
+CRL:
+  CIK: 1100682
+  Name: Charles River Laboratories
+  Sector: Health Care
+  Symbol: CRL
+  Watch: false
+CRM:
+  CIK: 1108524
+  Name: Salesforce
+  Sector: Information Technology
+  Symbol: CRM
+  Watch: false
+CSCO:
+  CIK: 858877
+  Name: Cisco Systems
+  Sector: Information Technology
+  Symbol: CSCO
+  Watch: false
+CSX:
+  CIK: 277948
+  Name: CSX
+  Sector: Industrials
+  Symbol: CSX
+  Watch: false
+CTAS:
+  CIK: 723254
+  Name: Cintas Corporation
+  Sector: Industrials
+  Symbol: CTAS
+  Watch: false
+CTLT:
+  CIK: 1596783
+  Name: Catalent
+  Sector: Health Care
+  Symbol: CTLT
+  Watch: false
+CTRA:
+  CIK: 1704715
+  Name: Coterra
+  Sector: Energy
+  Symbol: CTRA
+  Watch: false
+CTSH:
+  CIK: 1058290
+  Name: Cognizant Technology Solutions
+  Sector: Information Technology
+  Symbol: CTSH
+  Watch: false
+CTVA:
+  CIK: 1755672
+  Name: Corteva
+  Sector: Materials
+  Symbol: CTVA
+  Watch: false
+CTXS:
+  CIK: 877890
+  Name: Citrix Systems
+  Sector: Information Technology
+  Symbol: CTXS
+  Watch: false
+CVS:
+  CIK: 64803
+  Name: CVS Health
+  Sector: Health Care
+  Symbol: CVS
+  Watch: false
+CVX:
+  CIK: 93410
+  Name: Chevron Corporation
+  Sector: Energy
+  Symbol: CVX
+  Watch: false
+CZR:
+  CIK: 1590895
+  Name: Caesars Entertainment
+  Sector: Consumer Discretionary
+  Symbol: CZR
+  Watch: false
+D:
+  CIK: 715957
+  Name: Dominion Energy
+  Sector: Utilities
+  Symbol: D
+  Watch: false
+DAL:
+  CIK: 27904
+  Name: Delta Air Lines
+  Sector: Industrials
+  Symbol: DAL
+  Watch: false
+DD:
+  CIK: 1666700
+  Name: DuPont
+  Sector: Materials
+  Symbol: DD
+  Watch: false
+DE:
+  CIK: 315189
+  Name: Deere & Co.
+  Sector: Industrials
+  Symbol: DE
+  Watch: false
+DFS:
+  CIK: 1393612
+  Name: Discover Financial Services
+  Sector: Financials
+  Symbol: DFS
+  Watch: false
+DG:
+  CIK: 29534
+  Name: Dollar General
+  Sector: Consumer Discretionary
+  Symbol: DG
+  Watch: false
+DGX:
+  CIK: 1022079
+  Name: Quest Diagnostics
+  Sector: Health Care
+  Symbol: DGX
+  Watch: false
+DHI:
+  CIK: 882184
+  Name: D. R. Horton
+  Sector: Consumer Discretionary
+  Symbol: DHI
+  Watch: false
+DHR:
+  CIK: 313616
+  Name: Danaher Corporation
+  Sector: Health Care
+  Symbol: DHR
+  Watch: false
+DIS:
+  CIK: 1744489
+  Name: The Walt Disney Company
+  Sector: Communication Services
+  Symbol: DIS
+  Watch: false
+DISCA:
+  CIK: 1437107
+  Name: Discovery (Series A)
+  Sector: Communication Services
+  Symbol: DISCA
+  Watch: false
+DISCK:
+  CIK: 1437107
+  Name: Discovery (Series C)
+  Sector: Communication Services
+  Symbol: DISCK
+  Watch: false
+DISH:
+  CIK: 1001082
+  Name: Dish Network
+  Sector: Communication Services
+  Symbol: DISH
+  Watch: false
+DLR:
+  CIK: 1297996
+  Name: Digital Realty Trust
+  Sector: Real Estate
+  Symbol: DLR
+  Watch: false
+DLTR:
+  CIK: 935703
+  Name: Dollar Tree
+  Sector: Consumer Discretionary
+  Symbol: DLTR
+  Watch: false
+DOV:
+  CIK: 29905
+  Name: Dover Corporation
+  Sector: Industrials
+  Symbol: DOV
+  Watch: false
+DOW:
+  CIK: 1751788
+  Name: Dow
+  Sector: Materials
+  Symbol: DOW
+  Watch: false
+DPZ:
+  CIK: 1286681
+  Name: Domino's Pizza
+  Sector: Consumer Discretionary
+  Symbol: DPZ
+  Watch: false
+DRE:
+  CIK: 783280
+  Name: Duke Realty Corp
+  Sector: Real Estate
+  Symbol: DRE
+  Watch: false
+DRI:
+  CIK: 940944
+  Name: Darden Restaurants
+  Sector: Consumer Discretionary
+  Symbol: DRI
+  Watch: false
+DTE:
+  CIK: 936340
+  Name: DTE Energy
+  Sector: Utilities
+  Symbol: DTE
+  Watch: false
+DUK:
+  CIK: 1326160
+  Name: Duke Energy
+  Sector: Utilities
+  Symbol: DUK
+  Watch: false
+DVA:
+  CIK: 927066
+  Name: DaVita
+  Sector: Health Care
+  Symbol: DVA
+  Watch: false
+DVN:
+  CIK: 1090012
+  Name: Devon Energy
+  Sector: Energy
+  Symbol: DVN
+  Watch: false
+DXC:
+  CIK: 1688568
+  Name: DXC Technology
+  Sector: Information Technology
+  Symbol: DXC
+  Watch: false
+DXCM:
+  CIK: 1093557
+  Name: DexCom
+  Sector: Health Care
+  Symbol: DXCM
+  Watch: false
+EA:
+  CIK: 712515
+  Name: Electronic Arts
+  Sector: Communication Services
+  Symbol: EA
+  Watch: false
+EBAY:
+  CIK: 1065088
+  Name: eBay
+  Sector: Consumer Discretionary
+  Symbol: EBAY
+  Watch: false
+ECL:
+  CIK: 31462
+  Name: Ecolab
+  Sector: Materials
+  Symbol: ECL
+  Watch: false
+ED:
+  CIK: 1047862
+  Name: Consolidated Edison
+  Sector: Utilities
+  Symbol: ED
+  Watch: false
+EFX:
+  CIK: 33185
+  Name: Equifax
+  Sector: Industrials
+  Symbol: EFX
+  Watch: false
+EIX:
+  CIK: 827052
+  Name: Edison International
+  Sector: Utilities
+  Symbol: EIX
+  Watch: false
+EL:
+  CIK: 1001250
+  Name: "Est\xE9e Lauder Companies"
+  Sector: Consumer Staples
+  Symbol: EL
+  Watch: false
+EMN:
+  CIK: 915389
+  Name: Eastman Chemical
+  Sector: Materials
+  Symbol: EMN
+  Watch: false
+EMR:
+  CIK: 32604
+  Name: Emerson Electric Company
+  Sector: Industrials
+  Symbol: EMR
+  Watch: false
+ENPH:
+  CIK: 1463101
+  Name: Enphase Energy
+  Sector: Information Technology
+  Symbol: ENPH
+  Watch: false
+EOG:
+  CIK: 821189
+  Name: EOG Resources
+  Sector: Energy
+  Symbol: EOG
+  Watch: false
+EQIX:
+  CIK: 1101239
+  Name: Equinix
+  Sector: Real Estate
+  Symbol: EQIX
+  Watch: false
+EQR:
+  CIK: 906107
+  Name: Equity Residential
+  Sector: Real Estate
+  Symbol: EQR
+  Watch: false
+ES:
+  CIK: 72741
+  Name: Eversource Energy
+  Sector: Utilities
+  Symbol: ES
+  Watch: false
+ESS:
+  CIK: 920522
+  Name: Essex Property Trust
+  Sector: Real Estate
+  Symbol: ESS
+  Watch: false
+ETN:
+  CIK: 1551182
+  Name: Eaton Corporation
+  Sector: Industrials
+  Symbol: ETN
+  Watch: false
+ETR:
+  CIK: 65984
+  Name: Entergy
+  Sector: Utilities
+  Symbol: ETR
+  Watch: false
+ETSY:
+  CIK: 1370637
+  Name: Etsy
+  Sector: Consumer Discretionary
+  Symbol: ETSY
+  Watch: false
+EVRG:
+  CIK: 1711269
+  Name: Evergy
+  Sector: Utilities
+  Symbol: EVRG
+  Watch: false
+EW:
+  CIK: 1099800
+  Name: Edwards Lifesciences
+  Sector: Health Care
+  Symbol: EW
+  Watch: false
+EXC:
+  CIK: 1109357
+  Name: Exelon
+  Sector: Utilities
+  Symbol: EXC
+  Watch: false
+EXPD:
+  CIK: 746515
+  Name: Expeditors
+  Sector: Industrials
+  Symbol: EXPD
+  Watch: false
+EXPE:
+  CIK: 1324424
+  Name: Expedia Group
+  Sector: Consumer Discretionary
+  Symbol: EXPE
+  Watch: false
+EXR:
+  CIK: 1289490
+  Name: Extra Space Storage
+  Sector: Real Estate
+  Symbol: EXR
+  Watch: false
+F:
+  CIK: 37996
+  Name: Ford
+  Sector: Consumer Discretionary
+  Symbol: F
+  Watch: false
+FANG:
+  CIK: 1539838
+  Name: Diamondback Energy
+  Sector: Energy
+  Symbol: FANG
+  Watch: false
+FAST:
+  CIK: 815556
+  Name: Fastenal
+  Sector: Industrials
+  Symbol: FAST
+  Watch: false
+FB:
+  CIK: 1326801
+  Name: Facebook
+  Sector: Communication Services
+  Symbol: FB
+  Watch: false
+FBHS:
+  CIK: 1519751
+  Name: Fortune Brands Home & Security
+  Sector: Industrials
+  Symbol: FBHS
+  Watch: false
+FCX:
+  CIK: 831259
+  Name: Freeport-McMoRan
+  Sector: Materials
+  Symbol: FCX
+  Watch: false
+FDX:
+  CIK: 1048911
+  Name: FedEx
+  Sector: Industrials
+  Symbol: FDX
+  Watch: false
+FE:
+  CIK: 1031296
+  Name: FirstEnergy
+  Sector: Utilities
+  Symbol: FE
+  Watch: false
+FFIV:
+  CIK: 1048695
+  Name: F5 Networks
+  Sector: Information Technology
+  Symbol: FFIV
+  Watch: false
+FIS:
+  CIK: 1136893
+  Name: Fidelity National Information Services
+  Sector: Information Technology
+  Symbol: FIS
+  Watch: false
+FISV:
+  CIK: 798354
+  Name: Fiserv
+  Sector: Information Technology
+  Symbol: FISV
+  Watch: false
+FITB:
+  CIK: 35527
+  Name: Fifth Third Bancorp
+  Sector: Financials
+  Symbol: FITB
+  Watch: false
+FLT:
+  CIK: 1175454
+  Name: Fleetcor
+  Sector: Information Technology
+  Symbol: FLT
+  Watch: false
+FMC:
+  CIK: 37785
+  Name: FMC Corporation
+  Sector: Materials
+  Symbol: FMC
+  Watch: false
+FOX:
+  CIK: 1754301
+  Name: Fox Corporation (Class B)
+  Sector: Communication Services
+  Symbol: FOX
+  Watch: false
+FOXA:
+  CIK: 1754301
+  Name: Fox Corporation (Class A)
+  Sector: Communication Services
+  Symbol: FOXA
+  Watch: false
+FRC:
+  CIK: 1132979
+  Name: First Republic Bank
+  Sector: Financials
+  Symbol: FRC
+  Watch: false
+FRT:
+  CIK: 34903
+  Name: Federal Realty Investment Trust
+  Sector: Real Estate
+  Symbol: FRT
+  Watch: false
+FTNT:
+  CIK: 1262039
+  Name: Fortinet
+  Sector: Information Technology
+  Symbol: FTNT
+  Watch: false
+FTV:
+  CIK: 1659166
+  Name: Fortive
+  Sector: Industrials
+  Symbol: FTV
+  Watch: false
+GD:
+  CIK: 40533
+  Name: General Dynamics
+  Sector: Industrials
+  Symbol: GD
+  Watch: false
+GE:
+  CIK: 40545
+  Name: General Electric
+  Sector: Industrials
+  Symbol: GE
+  Watch: false
+GILD:
+  CIK: 882095
+  Name: Gilead Sciences
+  Sector: Health Care
+  Symbol: GILD
+  Watch: false
+GIS:
+  CIK: 40704
+  Name: General Mills
+  Sector: Consumer Staples
+  Symbol: GIS
+  Watch: false
+GL:
+  CIK: 320335
+  Name: Globe Life
+  Sector: Financials
+  Symbol: GL
+  Watch: false
+GLW:
+  CIK: 24741
+  Name: Corning
+  Sector: Information Technology
+  Symbol: GLW
+  Watch: false
+GM:
+  CIK: 1467858
+  Name: General Motors
+  Sector: Consumer Discretionary
+  Symbol: GM
+  Watch: false
+GNRC:
+  CIK: 1474735
+  Name: Generac Holdings
+  Sector: Industrials
+  Symbol: GNRC
+  Watch: false
+GOOG:
+  CIK: 1652044
+  Name: Alphabet (Class C)
+  Sector: Communication Services
+  Symbol: GOOG
+  Watch: false
+GOOGL:
+  CIK: 1652044
+  Name: Alphabet (Class A)
+  Sector: Communication Services
+  Symbol: GOOGL
+  Watch: false
+GPC:
+  CIK: 40987
+  Name: Genuine Parts
+  Sector: Consumer Discretionary
+  Symbol: GPC
+  Watch: false
+GPN:
+  CIK: 1123360
+  Name: Global Payments
+  Sector: Information Technology
+  Symbol: GPN
+  Watch: false
+GPS:
+  CIK: 39911
+  Name: Gap
+  Sector: Consumer Discretionary
+  Symbol: GPS
+  Watch: false
+GRMN:
+  CIK: 1121788
+  Name: Garmin
+  Sector: Consumer Discretionary
+  Symbol: GRMN
+  Watch: false
+GS:
+  CIK: 886982
+  Name: Goldman Sachs
+  Sector: Financials
+  Symbol: GS
+  Watch: false
+GWW:
+  CIK: 277135
+  Name: W. W. Grainger
+  Sector: Industrials
+  Symbol: GWW
+  Watch: false
+HAL:
+  CIK: 45012
+  Name: Halliburton
+  Sector: Energy
+  Symbol: HAL
+  Watch: false
+HAS:
+  CIK: 46080
+  Name: Hasbro
+  Sector: Consumer Discretionary
+  Symbol: HAS
+  Watch: false
+HBAN:
+  CIK: 49196
+  Name: Huntington Bancshares
+  Sector: Financials
+  Symbol: HBAN
+  Watch: false
+HBI:
+  CIK: 1359841
+  Name: Hanesbrands
+  Sector: Consumer Discretionary
+  Symbol: HBI
+  Watch: false
+HCA:
+  CIK: 860730
+  Name: HCA Healthcare
+  Sector: Health Care
+  Symbol: HCA
+  Watch: false
+HD:
+  CIK: 354950
+  Name: Home Depot
+  Sector: Consumer Discretionary
+  Symbol: HD
+  Watch: false
+HES:
+  CIK: 4447
+  Name: Hess Corporation
+  Sector: Energy
+  Symbol: HES
+  Watch: false
+HIG:
+  CIK: 874766
+  Name: The Hartford
+  Sector: Financials
+  Symbol: HIG
+  Watch: false
+HII:
+  CIK: 1501585
+  Name: Huntington Ingalls Industries
+  Sector: Industrials
+  Symbol: HII
+  Watch: false
+HLT:
+  CIK: 1585689
+  Name: Hilton Worldwide
+  Sector: Consumer Discretionary
+  Symbol: HLT
+  Watch: false
+HOLX:
+  CIK: 859737
+  Name: Hologic
+  Sector: Health Care
+  Symbol: HOLX
+  Watch: false
+HON:
+  CIK: 773840
+  Name: Honeywell
+  Sector: Industrials
+  Symbol: HON
+  Watch: false
+HPE:
+  CIK: 1645590
+  Name: Hewlett Packard Enterprise
+  Sector: Information Technology
+  Symbol: HPE
+  Watch: false
+HPQ:
+  CIK: 47217
+  Name: HP
+  Sector: Information Technology
+  Symbol: HPQ
+  Watch: false
+HRL:
+  CIK: 48465
+  Name: Hormel
+  Sector: Consumer Staples
+  Symbol: HRL
+  Watch: false
+HSIC:
+  CIK: 1000228
+  Name: Henry Schein
+  Sector: Health Care
+  Symbol: HSIC
+  Watch: false
+HST:
+  CIK: 1070750
+  Name: Host Hotels & Resorts
+  Sector: Real Estate
+  Symbol: HST
+  Watch: false
+HSY:
+  CIK: 47111
+  Name: The Hershey Company
+  Sector: Consumer Staples
+  Symbol: HSY
+  Watch: false
+HUM:
+  CIK: 49071
+  Name: Humana
+  Sector: Health Care
+  Symbol: HUM
+  Watch: false
+HWM:
+  CIK: 4281
+  Name: Howmet Aerospace
+  Sector: Industrials
+  Symbol: HWM
+  Watch: false
+IBM:
+  CIK: 51143
+  Name: IBM
+  Sector: Information Technology
+  Symbol: IBM
+  Watch: false
+ICE:
+  CIK: 1571949
+  Name: Intercontinental Exchange
+  Sector: Financials
+  Symbol: ICE
+  Watch: false
+IDXX:
+  CIK: 874716
+  Name: Idexx Laboratories
+  Sector: Health Care
+  Symbol: IDXX
+  Watch: false
+IEX:
+  CIK: 832101
+  Name: IDEX Corporation
+  Sector: Industrials
+  Symbol: IEX
+  Watch: false
+IFF:
+  CIK: 51253
+  Name: International Flavors & Fragrances
+  Sector: Materials
+  Symbol: IFF
+  Watch: false
+ILMN:
+  CIK: 1110803
+  Name: Illumina
+  Sector: Health Care
+  Symbol: ILMN
+  Watch: false
+INCY:
+  CIK: 879169
+  Name: Incyte
+  Sector: Health Care
+  Symbol: INCY
+  Watch: false
+INFO:
+  CIK: 1598014
+  Name: IHS Markit
+  Sector: Industrials
+  Symbol: INFO
+  Watch: false
+INTC:
+  CIK: 50863
+  Name: Intel
+  Sector: Information Technology
+  Symbol: INTC
+  Watch: false
+INTU:
+  CIK: 896878
+  Name: Intuit
+  Sector: Information Technology
+  Symbol: INTU
+  Watch: false
+IP:
+  CIK: 51434
+  Name: International Paper
+  Sector: Materials
+  Symbol: IP
+  Watch: false
+IPG:
+  CIK: 51644
+  Name: Interpublic Group
+  Sector: Communication Services
+  Symbol: IPG
+  Watch: false
+IPGP:
+  CIK: 1111928
+  Name: IPG Photonics
+  Sector: Information Technology
+  Symbol: IPGP
+  Watch: false
+IQV:
+  CIK: 1478242
+  Name: IQVIA
+  Sector: Health Care
+  Symbol: IQV
+  Watch: false
+IR:
+  CIK: 1699150
+  Name: Ingersoll Rand
+  Sector: Industrials
+  Symbol: IR
+  Watch: false
+IRM:
+  CIK: 1020569
+  Name: Iron Mountain
+  Sector: Real Estate
+  Symbol: IRM
+  Watch: false
+ISRG:
+  CIK: 1035267
+  Name: Intuitive Surgical
+  Sector: Health Care
+  Symbol: ISRG
+  Watch: false
+IT:
+  CIK: 749251
+  Name: Gartner
+  Sector: Information Technology
+  Symbol: IT
+  Watch: false
+ITW:
+  CIK: 49826
+  Name: Illinois Tool Works
+  Sector: Industrials
+  Symbol: ITW
+  Watch: false
+IVZ:
+  CIK: 914208
+  Name: Invesco
+  Sector: Financials
+  Symbol: IVZ
+  Watch: false
+J:
+  CIK: 52988
+  Name: Jacobs Engineering Group
+  Sector: Industrials
+  Symbol: J
+  Watch: false
+JBHT:
+  CIK: 728535
+  Name: J. B. Hunt
+  Sector: Industrials
+  Symbol: JBHT
+  Watch: false
+JCI:
+  CIK: 833444
+  Name: Johnson Controls
+  Sector: Industrials
+  Symbol: JCI
+  Watch: false
+JKHY:
+  CIK: 779152
+  Name: Jack Henry & Associates
+  Sector: Information Technology
+  Symbol: JKHY
+  Watch: false
+JNJ:
+  CIK: 200406
+  Name: Johnson & Johnson
+  Sector: Health Care
+  Symbol: JNJ
+  Watch: false
+JNPR:
+  CIK: 1043604
+  Name: Juniper Networks
+  Sector: Information Technology
+  Symbol: JNPR
+  Watch: false
+JPM:
+  CIK: 19617
+  Name: JPMorgan Chase
+  Sector: Financials
+  Symbol: JPM
+  Watch: false
+K:
+  CIK: 55067
+  Name: Kellogg's
+  Sector: Consumer Staples
+  Symbol: K
+  Watch: false
+KEY:
+  CIK: 91576
+  Name: KeyCorp
+  Sector: Financials
+  Symbol: KEY
+  Watch: false
+KEYS:
+  CIK: 1601046
+  Name: Keysight Technologies
+  Sector: Information Technology
+  Symbol: KEYS
+  Watch: false
+KHC:
+  CIK: 1637459
+  Name: Kraft Heinz
+  Sector: Consumer Staples
+  Symbol: KHC
+  Watch: false
+KIM:
+  CIK: 879101
+  Name: Kimco Realty
+  Sector: Real Estate
+  Symbol: KIM
+  Watch: false
+KLAC:
+  CIK: 319201
+  Name: KLA Corporation
+  Sector: Information Technology
+  Symbol: KLAC
+  Watch: false
+KMB:
+  CIK: 55785
+  Name: Kimberly-Clark
+  Sector: Consumer Staples
+  Symbol: KMB
+  Watch: false
+KMI:
+  CIK: 1506307
+  Name: Kinder Morgan
+  Sector: Energy
+  Symbol: KMI
+  Watch: false
+KMX:
+  CIK: 1170010
+  Name: CarMax
+  Sector: Consumer Discretionary
+  Symbol: KMX
+  Watch: false
+KO:
+  CIK: 21344
+  Name: Coca-Cola Company
+  Sector: Consumer Staples
+  Symbol: KO
+  Watch: false
+KR:
+  CIK: 56873
+  Name: Kroger
+  Sector: Consumer Staples
+  Symbol: KR
+  Watch: false
+KSU:
+  CIK: 54480
+  Name: Kansas City Southern
+  Sector: Industrials
+  Symbol: KSU
+  Watch: false
+L:
+  CIK: 60086
+  Name: Loews Corporation
+  Sector: Financials
+  Symbol: L
+  Watch: false
+LDOS:
+  CIK: 1336920
+  Name: Leidos
+  Sector: Industrials
+  Symbol: LDOS
+  Watch: false
+LEG:
+  CIK: 58492
+  Name: Leggett & Platt
+  Sector: Consumer Discretionary
+  Symbol: LEG
+  Watch: false
+LEN:
+  CIK: 920760
+  Name: Lennar
+  Sector: Consumer Discretionary
+  Symbol: LEN
+  Watch: false
+LH:
+  CIK: 920148
+  Name: LabCorp
+  Sector: Health Care
+  Symbol: LH
+  Watch: false
+LHX:
+  CIK: 202058
+  Name: L3Harris Technologies
+  Sector: Industrials
+  Symbol: LHX
+  Watch: false
+LIN:
+  CIK: 1707925
+  Name: Linde
+  Sector: Materials
+  Symbol: LIN
+  Watch: false
+LKQ:
+  CIK: 1065696
+  Name: LKQ Corporation
+  Sector: Consumer Discretionary
+  Symbol: LKQ
+  Watch: false
+LLY:
+  CIK: 59478
+  Name: Eli Lilly & Co
+  Sector: Health Care
+  Symbol: LLY
+  Watch: false
+LMT:
+  CIK: 936468
+  Name: Lockheed Martin
+  Sector: Industrials
+  Symbol: LMT
+  Watch: false
+LNC:
+  CIK: 59558
+  Name: Lincoln National
+  Sector: Financials
+  Symbol: LNC
+  Watch: false
+LNT:
+  CIK: 352541
+  Name: Alliant Energy
+  Sector: Utilities
+  Symbol: LNT
+  Watch: false
+LOW:
+  CIK: 60667
+  Name: Lowe's
+  Sector: Consumer Discretionary
+  Symbol: LOW
+  Watch: false
+LRCX:
+  CIK: 707549
+  Name: Lam Research
+  Sector: Information Technology
+  Symbol: LRCX
+  Watch: false
+LUMN:
+  CIK: 18926
+  Name: Lumen Technologies
+  Sector: Communication Services
+  Symbol: LUMN
+  Watch: false
+LUV:
+  CIK: 92380
+  Name: Southwest Airlines
+  Sector: Industrials
+  Symbol: LUV
+  Watch: false
+LVS:
+  CIK: 1300514
+  Name: Las Vegas Sands
+  Sector: Consumer Discretionary
+  Symbol: LVS
+  Watch: false
+LW:
+  CIK: 1679273
+  Name: Lamb Weston
+  Sector: Consumer Staples
+  Symbol: LW
+  Watch: false
+LYB:
+  CIK: 1489393
+  Name: LyondellBasell
+  Sector: Materials
+  Symbol: LYB
+  Watch: false
+LYV:
+  CIK: 1335258
+  Name: Live Nation Entertainment
+  Sector: Communication Services
+  Symbol: LYV
+  Watch: false
+MA:
+  CIK: 1141391
+  Name: Mastercard
+  Sector: Information Technology
+  Symbol: MA
+  Watch: false
+MAA:
+  CIK: 912595
+  Name: Mid-America Apartments
+  Sector: Real Estate
+  Symbol: MAA
+  Watch: false
+MAR:
+  CIK: 1048286
+  Name: Marriott International
+  Sector: Consumer Discretionary
+  Symbol: MAR
+  Watch: false
+MAS:
+  CIK: 62996
+  Name: Masco
+  Sector: Industrials
+  Symbol: MAS
+  Watch: false
+MCD:
+  CIK: 63908
+  Name: McDonald's
+  Sector: Consumer Discretionary
+  Symbol: MCD
+  Watch: false
+MCHP:
+  CIK: 827054
+  Name: Microchip Technology
+  Sector: Information Technology
+  Symbol: MCHP
+  Watch: false
+MCK:
+  CIK: 927653
+  Name: McKesson Corporation
+  Sector: Health Care
+  Symbol: MCK
+  Watch: false
+MCO:
+  CIK: 1059556
+  Name: Moody's Corporation
+  Sector: Financials
+  Symbol: MCO
+  Watch: false
+MDLZ:
+  CIK: 1103982
+  Name: Mondelez International
+  Sector: Consumer Staples
+  Symbol: MDLZ
+  Watch: false
+MDT:
+  CIK: 1613103
+  Name: Medtronic
+  Sector: Health Care
+  Symbol: MDT
+  Watch: false
+MET:
+  CIK: 1099219
+  Name: MetLife
+  Sector: Financials
+  Symbol: MET
+  Watch: false
+MGM:
+  CIK: 789570
+  Name: MGM Resorts International
+  Sector: Consumer Discretionary
+  Symbol: MGM
+  Watch: false
+MHK:
+  CIK: 851968
+  Name: Mohawk Industries
+  Sector: Consumer Discretionary
+  Symbol: MHK
+  Watch: false
+MKC:
+  CIK: 63754
+  Name: McCormick & Company
+  Sector: Consumer Staples
+  Symbol: MKC
+  Watch: false
+MKTX:
+  CIK: 1278021
+  Name: MarketAxess
+  Sector: Financials
+  Symbol: MKTX
+  Watch: false
+MLM:
+  CIK: 916076
+  Name: Martin Marietta Materials
+  Sector: Materials
+  Symbol: MLM
+  Watch: false
+MMC:
+  CIK: 62709
+  Name: Marsh & McLennan
+  Sector: Financials
+  Symbol: MMC
+  Watch: false
+MMM:
+  CIK: 66740
+  Name: 3M
+  Sector: Industrials
+  Symbol: MMM
+  Watch: false
+MNST:
+  CIK: 865752
+  Name: Monster Beverage
+  Sector: Consumer Staples
+  Symbol: MNST
+  Watch: false
+MO:
+  CIK: 764180
+  Name: Altria Group
+  Sector: Consumer Staples
+  Symbol: MO
+  Watch: false
+MOS:
+  CIK: 1285785
+  Name: The Mosaic Company
+  Sector: Materials
+  Symbol: MOS
+  Watch: false
+MPC:
+  CIK: 1510295
+  Name: Marathon Petroleum
+  Sector: Energy
+  Symbol: MPC
+  Watch: false
+MPWR:
+  CIK: 1280452
+  Name: Monolithic Power Systems
+  Sector: Information Technology
+  Symbol: MPWR
+  Watch: false
+MRK:
+  CIK: 310158
+  Name: Merck & Co.
+  Sector: Health Care
+  Symbol: MRK
+  Watch: false
+MRNA:
+  CIK: 1682852
+  Name: Moderna
+  Sector: Health Care
+  Symbol: MRNA
+  Watch: false
+MRO:
+  CIK: 101778
+  Name: Marathon Oil
+  Sector: Energy
+  Symbol: MRO
+  Watch: false
+MS:
+  CIK: 895421
+  Name: Morgan Stanley
+  Sector: Financials
+  Symbol: MS
+  Watch: false
+MSCI:
+  CIK: 1408198
+  Name: MSCI
+  Sector: Financials
+  Symbol: MSCI
+  Watch: false
+MSFT:
+  CIK: 789019
+  Name: Microsoft
+  Sector: Information Technology
+  Symbol: MSFT
+  Watch: false
+MSI:
+  CIK: 68505
+  Name: Motorola Solutions
+  Sector: Information Technology
+  Symbol: MSI
+  Watch: false
+MTB:
+  CIK: 36270
+  Name: M&T Bank
+  Sector: Financials
+  Symbol: MTB
+  Watch: false
+MTCH:
+  CIK: 891103
+  Name: Match Group
+  Sector: Communication Services
+  Symbol: MTCH
+  Watch: false
+MTD:
+  CIK: 1037646
+  Name: Mettler Toledo
+  Sector: Health Care
+  Symbol: MTD
+  Watch: false
+MU:
+  CIK: 723125
+  Name: Micron Technology
+  Sector: Information Technology
+  Symbol: MU
+  Watch: false
+NCLH:
+  CIK: 1513761
+  Name: Norwegian Cruise Line Holdings
+  Sector: Consumer Discretionary
+  Symbol: NCLH
+  Watch: false
+NDAQ:
+  CIK: 1120193
+  Name: Nasdaq
+  Sector: Financials
+  Symbol: NDAQ
+  Watch: false
+NEE:
+  CIK: 753308
+  Name: NextEra Energy
+  Sector: Utilities
+  Symbol: NEE
+  Watch: false
+NEM:
+  CIK: 1164727
+  Name: Newmont
+  Sector: Materials
+  Symbol: NEM
+  Watch: false
+NFLX:
+  CIK: 1065280
+  Name: Netflix
+  Sector: Communication Services
+  Symbol: NFLX
+  Watch: false
+NI:
+  CIK: 1111711
+  Name: NiSource
+  Sector: Utilities
+  Symbol: NI
+  Watch: false
+NKE:
+  CIK: 320187
+  Name: Nike
+  Sector: Consumer Discretionary
+  Symbol: NKE
+  Watch: false
+NLOK:
+  CIK: 849399
+  Name: NortonLifeLock
+  Sector: Information Technology
+  Symbol: NLOK
+  Watch: false
+NLSN:
+  CIK: 1492633
+  Name: Nielsen Holdings
+  Sector: Industrials
+  Symbol: NLSN
+  Watch: false
+NOC:
+  CIK: 1133421
+  Name: Northrop Grumman
+  Sector: Industrials
+  Symbol: NOC
+  Watch: false
+NOW:
+  CIK: 1373715
+  Name: ServiceNow
+  Sector: Information Technology
+  Symbol: NOW
+  Watch: false
+NRG:
+  CIK: 1013871
+  Name: NRG Energy
+  Sector: Utilities
+  Symbol: NRG
+  Watch: false
+NSC:
+  CIK: 702165
+  Name: Norfolk Southern
+  Sector: Industrials
+  Symbol: NSC
+  Watch: false
+NTAP:
+  CIK: 1002047
+  Name: NetApp
+  Sector: Information Technology
+  Symbol: NTAP
+  Watch: false
+NTRS:
+  CIK: 73124
+  Name: Northern Trust
+  Sector: Financials
+  Symbol: NTRS
+  Watch: false
+NUE:
+  CIK: 73309
+  Name: Nucor
+  Sector: Materials
+  Symbol: NUE
+  Watch: false
+NVDA:
+  CIK: 1045810
+  Name: Nvidia
+  Sector: Information Technology
+  Symbol: NVDA
+  Watch: false
+NVR:
+  CIK: 906163
+  Name: NVR
+  Sector: Consumer Discretionary
+  Symbol: NVR
+  Watch: false
+NWL:
+  CIK: 814453
+  Name: Newell Brands
+  Sector: Consumer Discretionary
+  Symbol: NWL
+  Watch: false
+NWS:
+  CIK: 1564708
+  Name: News Corp (Class B)
+  Sector: Communication Services
+  Symbol: NWS
+  Watch: false
+NWSA:
+  CIK: 1564708
+  Name: News Corp (Class A)
+  Sector: Communication Services
+  Symbol: NWSA
+  Watch: false
+NXPI:
+  CIK: 1413447
+  Name: NXP
+  Sector: Information Technology
+  Symbol: NXPI
+  Watch: false
+O:
+  CIK: 726728
+  Name: Realty Income Corporation
+  Sector: Real Estate
+  Symbol: O
+  Watch: false
+ODFL:
+  CIK: 878927
+  Name: Old Dominion Freight Line
+  Sector: Industrials
+  Symbol: ODFL
+  Watch: false
+OKE:
+  CIK: 1039684
+  Name: Oneok
+  Sector: Energy
+  Symbol: OKE
+  Watch: false
+OMC:
+  CIK: 29989
+  Name: Omnicom Group
+  Sector: Communication Services
+  Symbol: OMC
+  Watch: false
+ORCL:
+  CIK: 1341439
+  Name: Oracle
+  Sector: Information Technology
+  Symbol: ORCL
+  Watch: false
+ORLY:
+  CIK: 898173
+  Name: O'Reilly Automotive
+  Sector: Consumer Discretionary
+  Symbol: ORLY
+  Watch: false
+OTIS:
+  CIK: 1781335
+  Name: Otis Worldwide
+  Sector: Industrials
+  Symbol: OTIS
+  Watch: false
+OXY:
+  CIK: 797468
+  Name: Occidental Petroleum
+  Sector: Energy
+  Symbol: OXY
+  Watch: false
+PAYC:
+  CIK: 1590955
+  Name: Paycom
+  Sector: Information Technology
+  Symbol: PAYC
+  Watch: false
+PAYX:
+  CIK: 723531
+  Name: Paychex
+  Sector: Information Technology
+  Symbol: PAYX
+  Watch: false
+PBCT:
+  CIK: 1378946
+  Name: People's United Financial
+  Sector: Financials
+  Symbol: PBCT
+  Watch: false
+PCAR:
+  CIK: 75362
+  Name: Paccar
+  Sector: Industrials
+  Symbol: PCAR
+  Watch: false
+PEAK:
+  CIK: 765880
+  Name: Healthpeak Properties
+  Sector: Real Estate
+  Symbol: PEAK
+  Watch: false
+PEG:
+  CIK: 788784
+  Name: Public Service Enterprise Group
+  Sector: Utilities
+  Symbol: PEG
+  Watch: false
+PENN:
+  CIK: 921738
+  Name: Penn National Gaming
+  Sector: Consumer Discretionary
+  Symbol: PENN
+  Watch: false
+PEP:
+  CIK: 77476
+  Name: PepsiCo
+  Sector: Consumer Staples
+  Symbol: PEP
+  Watch: false
+PFE:
+  CIK: 78003
+  Name: Pfizer
+  Sector: Health Care
+  Symbol: PFE
+  Watch: false
+PFG:
+  CIK: 1126328
+  Name: Principal Financial Group
+  Sector: Financials
+  Symbol: PFG
+  Watch: false
+PG:
+  CIK: 80424
+  Name: Procter & Gamble
+  Sector: Consumer Staples
+  Symbol: PG
+  Watch: false
+PGR:
+  CIK: 80661
+  Name: Progressive Corporation
+  Sector: Financials
+  Symbol: PGR
+  Watch: false
+PH:
+  CIK: 76334
+  Name: Parker-Hannifin
+  Sector: Industrials
+  Symbol: PH
+  Watch: false
+PHM:
+  CIK: 822416
+  Name: PulteGroup
+  Sector: Consumer Discretionary
+  Symbol: PHM
+  Watch: false
+PKG:
+  CIK: 75677
+  Name: Packaging Corporation of America
+  Sector: Materials
+  Symbol: PKG
+  Watch: false
+PKI:
+  CIK: 31791
+  Name: PerkinElmer
+  Sector: Health Care
+  Symbol: PKI
+  Watch: false
+PLD:
+  CIK: 1045609
+  Name: Prologis
+  Sector: Real Estate
+  Symbol: PLD
+  Watch: false
+PM:
+  CIK: 1413329
+  Name: Philip Morris International
+  Sector: Consumer Staples
+  Symbol: PM
+  Watch: false
+PNC:
+  CIK: 713676
+  Name: PNC Financial Services
+  Sector: Financials
+  Symbol: PNC
+  Watch: false
+PNR:
+  CIK: 77360
+  Name: Pentair
+  Sector: Industrials
+  Symbol: PNR
+  Watch: false
+PNW:
+  CIK: 764622
+  Name: Pinnacle West Capital
+  Sector: Utilities
+  Symbol: PNW
+  Watch: false
+POOL:
+  CIK: 945841
+  Name: Pool Corporation
+  Sector: Consumer Discretionary
+  Symbol: POOL
+  Watch: false
+PPG:
+  CIK: 79879
+  Name: PPG Industries
+  Sector: Materials
+  Symbol: PPG
+  Watch: false
+PPL:
+  CIK: 922224
+  Name: PPL
+  Sector: Utilities
+  Symbol: PPL
+  Watch: false
+PRU:
+  CIK: 1137774
+  Name: Prudential Financial
+  Sector: Financials
+  Symbol: PRU
+  Watch: false
+PSA:
+  CIK: 1393311
+  Name: Public Storage
+  Sector: Real Estate
+  Symbol: PSA
+  Watch: false
+PSX:
+  CIK: 1534701
+  Name: Phillips 66
+  Sector: Energy
+  Symbol: PSX
+  Watch: false
+PTC:
+  CIK: 857005
+  Name: PTC
+  Sector: Information Technology
+  Symbol: PTC
+  Watch: false
+PVH:
+  CIK: 78239
+  Name: PVH
+  Sector: Consumer Discretionary
+  Symbol: PVH
+  Watch: false
+PWR:
+  CIK: 1050915
+  Name: Quanta Services
+  Sector: Industrials
+  Symbol: PWR
+  Watch: false
+PXD:
+  CIK: 1038357
+  Name: Pioneer Natural Resources
+  Sector: Energy
+  Symbol: PXD
+  Watch: false
+PYPL:
+  CIK: 1633917
+  Name: PayPal
+  Sector: Information Technology
+  Symbol: PYPL
+  Watch: false
+QCOM:
+  CIK: 804328
+  Name: Qualcomm
+  Sector: Information Technology
+  Symbol: QCOM
+  Watch: false
+QRVO:
+  CIK: 1604778
+  Name: Qorvo
+  Sector: Information Technology
+  Symbol: QRVO
+  Watch: false
+RCL:
+  CIK: 884887
+  Name: Royal Caribbean Group
+  Sector: Consumer Discretionary
+  Symbol: RCL
+  Watch: false
+RE:
+  CIK: 1095073
+  Name: Everest Re
+  Sector: Financials
+  Symbol: RE
+  Watch: false
+REG:
+  CIK: 910606
+  Name: Regency Centers
+  Sector: Real Estate
+  Symbol: REG
+  Watch: false
+REGN:
+  CIK: 872589
+  Name: Regeneron Pharmaceuticals
+  Sector: Health Care
+  Symbol: REGN
+  Watch: false
+RF:
+  CIK: 1281761
+  Name: Regions Financial Corporation
+  Sector: Financials
+  Symbol: RF
+  Watch: false
+RHI:
+  CIK: 315213
+  Name: Robert Half International
+  Sector: Industrials
+  Symbol: RHI
+  Watch: false
+RJF:
+  CIK: 720005
+  Name: Raymond James Financial
+  Sector: Financials
+  Symbol: RJF
+  Watch: false
+RL:
+  CIK: 1037038
+  Name: Ralph Lauren Corporation
+  Sector: Consumer Discretionary
+  Symbol: RL
+  Watch: false
+RMD:
+  CIK: 943819
+  Name: ResMed
+  Sector: Health Care
+  Symbol: RMD
+  Watch: false
+ROK:
+  CIK: 1024478
+  Name: Rockwell Automation
+  Sector: Industrials
+  Symbol: ROK
+  Watch: false
+ROL:
+  CIK: 84839
+  Name: Rollins
+  Sector: Industrials
+  Symbol: ROL
+  Watch: false
+ROP:
+  CIK: 882835
+  Name: Roper Technologies
+  Sector: Industrials
+  Symbol: ROP
+  Watch: false
+ROST:
+  CIK: 745732
+  Name: Ross Stores
+  Sector: Consumer Discretionary
+  Symbol: ROST
+  Watch: false
+RSG:
+  CIK: 1060391
+  Name: Republic Services
+  Sector: Industrials
+  Symbol: RSG
+  Watch: false
+RTX:
+  CIK: 101829
+  Name: Raytheon Technologies
+  Sector: Industrials
+  Symbol: RTX
+  Watch: false
+SBAC:
+  CIK: 1034054
+  Name: SBA Communications
+  Sector: Real Estate
+  Symbol: SBAC
+  Watch: false
+SBUX:
+  CIK: 829224
+  Name: Starbucks
+  Sector: Consumer Discretionary
+  Symbol: SBUX
+  Watch: false
+SCHW:
+  CIK: 316709
+  Name: Charles Schwab Corporation
+  Sector: Financials
+  Symbol: SCHW
+  Watch: false
+SEE:
+  CIK: 1012100
+  Name: Sealed Air
+  Sector: Materials
+  Symbol: SEE
+  Watch: false
+SHW:
+  CIK: 89800
+  Name: Sherwin-Williams
+  Sector: Materials
+  Symbol: SHW
+  Watch: false
+SIVB:
+  CIK: 719739
+  Name: SVB Financial
+  Sector: Financials
+  Symbol: SIVB
+  Watch: false
+SJM:
+  CIK: 91419
+  Name: JM Smucker
+  Sector: Consumer Staples
+  Symbol: SJM
+  Watch: false
+SLB:
+  CIK: 87347
+  Name: Schlumberger
+  Sector: Energy
+  Symbol: SLB
+  Watch: false
+SNA:
+  CIK: 91440
+  Name: Snap-on
+  Sector: Industrials
+  Symbol: SNA
+  Watch: false
+SNPS:
+  CIK: 883241
+  Name: Synopsys
+  Sector: Information Technology
+  Symbol: SNPS
+  Watch: false
+SO:
+  CIK: 92122
+  Name: Southern Company
+  Sector: Utilities
+  Symbol: SO
+  Watch: false
+SPG:
+  CIK: 1063761
+  Name: Simon Property Group
+  Sector: Real Estate
+  Symbol: SPG
+  Watch: false
+SPGI:
+  CIK: 64040
+  Name: S&P Global
+  Sector: Financials
+  Symbol: SPGI
+  Watch: false
+SRE:
+  CIK: 1032208
+  Name: Sempra Energy
+  Sector: Utilities
+  Symbol: SRE
+  Watch: false
+STE:
+  CIK: 1757898
+  Name: Steris
+  Sector: Health Care
+  Symbol: STE
+  Watch: false
+STT:
+  CIK: 93751
+  Name: State Street Corporation
+  Sector: Financials
+  Symbol: STT
+  Watch: false
+STX:
+  CIK: 1137789
+  Name: Seagate Technology
+  Sector: Information Technology
+  Symbol: STX
+  Watch: false
+STZ:
+  CIK: 16918
+  Name: Constellation Brands
+  Sector: Consumer Staples
+  Symbol: STZ
+  Watch: false
+SWK:
+  CIK: 93556
+  Name: Stanley Black & Decker
+  Sector: Industrials
+  Symbol: SWK
+  Watch: false
+SWKS:
+  CIK: 4127
+  Name: Skyworks Solutions
+  Sector: Information Technology
+  Symbol: SWKS
+  Watch: false
+SYF:
+  CIK: 1601712
+  Name: Synchrony Financial
+  Sector: Financials
+  Symbol: SYF
+  Watch: false
+SYK:
+  CIK: 310764
+  Name: Stryker Corporation
+  Sector: Health Care
+  Symbol: SYK
+  Watch: false
+SYY:
+  CIK: 96021
+  Name: Sysco
+  Sector: Consumer Staples
+  Symbol: SYY
+  Watch: false
+T:
+  CIK: 732717
+  Name: AT&T
+  Sector: Communication Services
+  Symbol: T
+  Watch: false
+TAP:
+  CIK: 24545
+  Name: Molson Coors Beverage Company
+  Sector: Consumer Staples
+  Symbol: TAP
+  Watch: false
+TDG:
+  CIK: 1260221
+  Name: TransDigm Group
+  Sector: Industrials
+  Symbol: TDG
+  Watch: false
+TDY:
+  CIK: 1094285
+  Name: Teledyne Technologies
+  Sector: Industrials
+  Symbol: TDY
+  Watch: false
+TECH:
+  CIK: 842023
+  Name: Bio-Techne
+  Sector: Health Care
+  Symbol: TECH
+  Watch: false
+TEL:
+  CIK: 1385157
+  Name: TE Connectivity
+  Sector: Information Technology
+  Symbol: TEL
+  Watch: false
+TER:
+  CIK: 97210
+  Name: Teradyne
+  Sector: Information Technology
+  Symbol: TER
+  Watch: false
+TFC:
+  CIK: 92230
+  Name: Truist Financial
+  Sector: Financials
+  Symbol: TFC
+  Watch: false
+TFX:
+  CIK: 96943
+  Name: Teleflex
+  Sector: Health Care
+  Symbol: TFX
+  Watch: false
+TGT:
+  CIK: 27419
+  Name: Target Corporation
+  Sector: Consumer Discretionary
+  Symbol: TGT
+  Watch: false
+TJX:
+  CIK: 109198
+  Name: TJX Companies
+  Sector: Consumer Discretionary
+  Symbol: TJX
+  Watch: false
+TMO:
+  CIK: 97745
+  Name: Thermo Fisher Scientific
+  Sector: Health Care
+  Symbol: TMO
+  Watch: false
+TMUS:
+  CIK: 1283699
+  Name: T-Mobile US
+  Sector: Communication Services
+  Symbol: TMUS
+  Watch: false
+TPR:
+  CIK: 1116132
+  Name: Tapestry
+  Sector: Consumer Discretionary
+  Symbol: TPR
+  Watch: false
+TRMB:
+  CIK: 864749
+  Name: Trimble
+  Sector: Information Technology
+  Symbol: TRMB
+  Watch: false
+TROW:
+  CIK: 1113169
+  Name: T. Rowe Price
+  Sector: Financials
+  Symbol: TROW
+  Watch: false
+TRV:
+  CIK: 86312
+  Name: The Travelers Companies
+  Sector: Financials
+  Symbol: TRV
+  Watch: false
+TSCO:
+  CIK: 916365
+  Name: Tractor Supply Company
+  Sector: Consumer Discretionary
+  Symbol: TSCO
+  Watch: false
+TSLA:
+  CIK: 1318605
+  Name: Tesla
+  Sector: Consumer Discretionary
+  Symbol: TSLA
+  Watch: false
+TSN:
+  CIK: 100493
+  Name: Tyson Foods
+  Sector: Consumer Staples
+  Symbol: TSN
+  Watch: false
+TT:
+  CIK: 1466258
+  Name: Trane Technologies
+  Sector: Industrials
+  Symbol: TT
+  Watch: false
+TTWO:
+  CIK: 946581
+  Name: Take-Two Interactive
+  Sector: Communication Services
+  Symbol: TTWO
+  Watch: false
+TWTR:
+  CIK: 1418091
+  Name: Twitter
+  Sector: Communication Services
+  Symbol: TWTR
+  Watch: false
+TXN:
+  CIK: 97476
+  Name: Texas Instruments
+  Sector: Information Technology
+  Symbol: TXN
+  Watch: false
+TXT:
+  CIK: 217346
+  Name: Textron
+  Sector: Industrials
+  Symbol: TXT
+  Watch: false
+TYL:
+  CIK: 860731
+  Name: Tyler Technologies
+  Sector: Information Technology
+  Symbol: TYL
+  Watch: false
+UA:
+  CIK: 1336917
+  Name: Under Armour (Class C)
+  Sector: Consumer Discretionary
+  Symbol: UA
+  Watch: false
+UAA:
+  CIK: 1336917
+  Name: Under Armour (Class A)
+  Sector: Consumer Discretionary
+  Symbol: UAA
+  Watch: false
+UAL:
+  CIK: 100517
+  Name: United Airlines
+  Sector: Industrials
+  Symbol: UAL
+  Watch: false
+UDR:
+  CIK: 74208
+  Name: UDR
+  Sector: Real Estate
+  Symbol: UDR
+  Watch: false
+UHS:
+  CIK: 352915
+  Name: Universal Health Services
+  Sector: Health Care
+  Symbol: UHS
+  Watch: false
+ULTA:
+  CIK: 1403568
+  Name: Ulta Beauty
+  Sector: Consumer Discretionary
+  Symbol: ULTA
+  Watch: false
+UNH:
+  CIK: 731766
+  Name: UnitedHealth Group
+  Sector: Health Care
+  Symbol: UNH
+  Watch: false
+UNP:
+  CIK: 100885
+  Name: Union Pacific
+  Sector: Industrials
+  Symbol: UNP
+  Watch: false
+UPS:
+  CIK: 1090727
+  Name: United Parcel Service
+  Sector: Industrials
+  Symbol: UPS
+  Watch: false
+URI:
+  CIK: 1067701
+  Name: United Rentals
+  Sector: Industrials
+  Symbol: URI
+  Watch: false
+USB:
+  CIK: 36104
+  Name: U.S. Bancorp
+  Sector: Financials
+  Symbol: USB
+  Watch: false
+V:
+  CIK: 1403161
+  Name: Visa
+  Sector: Information Technology
+  Symbol: V
+  Watch: false
+VFC:
+  CIK: 103379
+  Name: VF Corporation
+  Sector: Consumer Discretionary
+  Symbol: VFC
+  Watch: false
+VIAC:
+  CIK: 813828
+  Name: ViacomCBS
+  Sector: Communication Services
+  Symbol: VIAC
+  Watch: false
+VLO:
+  CIK: 1035002
+  Name: Valero Energy
+  Sector: Energy
+  Symbol: VLO
+  Watch: false
+VMC:
+  CIK: 1396009
+  Name: Vulcan Materials
+  Sector: Materials
+  Symbol: VMC
+  Watch: false
+VNO:
+  CIK: 899689
+  Name: Vornado Realty Trust
+  Sector: Real Estate
+  Symbol: VNO
+  Watch: false
+VRSK:
+  CIK: 1442145
+  Name: Verisk Analytics
+  Sector: Industrials
+  Symbol: VRSK
+  Watch: false
+VRSN:
+  CIK: 1014473
+  Name: Verisign
+  Sector: Information Technology
+  Symbol: VRSN
+  Watch: false
+VRTX:
+  CIK: 875320
+  Name: Vertex Pharmaceuticals
+  Sector: Health Care
+  Symbol: VRTX
+  Watch: false
+VTR:
+  CIK: 740260
+  Name: Ventas
+  Sector: Real Estate
+  Symbol: VTR
+  Watch: false
+VTRS:
+  CIK: 1792044
+  Name: Viatris
+  Sector: Health Care
+  Symbol: VTRS
+  Watch: false
+VZ:
+  CIK: 732712
+  Name: Verizon Communications
+  Sector: Communication Services
+  Symbol: VZ
+  Watch: false
+WAB:
+  CIK: 943452
+  Name: Wabtec
+  Sector: Industrials
+  Symbol: WAB
+  Watch: false
+WAT:
+  CIK: 1000697
+  Name: Waters Corporation
+  Sector: Health Care
+  Symbol: WAT
+  Watch: false
+WBA:
+  CIK: 1618921
+  Name: Walgreens Boots Alliance
+  Sector: Consumer Staples
+  Symbol: WBA
+  Watch: false
+WDC:
+  CIK: 106040
+  Name: Western Digital
+  Sector: Information Technology
+  Symbol: WDC
+  Watch: false
+WEC:
+  CIK: 783325
+  Name: WEC Energy Group
+  Sector: Utilities
+  Symbol: WEC
+  Watch: false
+WELL:
+  CIK: 766704
+  Name: Welltower
+  Sector: Real Estate
+  Symbol: WELL
+  Watch: false
+WFC:
+  CIK: 72971
+  Name: Wells Fargo
+  Sector: Financials
+  Symbol: WFC
+  Watch: false
+WHR:
+  CIK: 106640
+  Name: Whirlpool Corporation
+  Sector: Consumer Discretionary
+  Symbol: WHR
+  Watch: false
+WLTW:
+  CIK: 1140536
+  Name: Willis Towers Watson
+  Sector: Financials
+  Symbol: WLTW
+  Watch: false
+WM:
+  CIK: 823768
+  Name: Waste Management
+  Sector: Industrials
+  Symbol: WM
+  Watch: false
+WMB:
+  CIK: 107263
+  Name: Williams Companies
+  Sector: Energy
+  Symbol: WMB
+  Watch: false
+WMT:
+  CIK: 104169
+  Name: Walmart
+  Sector: Consumer Staples
+  Symbol: WMT
+  Watch: false
+WRB:
+  CIK: 11544
+  Name: W. R. Berkley Corporation
+  Sector: Financials
+  Symbol: WRB
+  Watch: false
+WRK:
+  CIK: 1732845
+  Name: WestRock
+  Sector: Materials
+  Symbol: WRK
+  Watch: false
+WST:
+  CIK: 105770
+  Name: West Pharmaceutical Services
+  Sector: Health Care
+  Symbol: WST
+  Watch: false
+WU:
+  CIK: 1365135
+  Name: Western Union
+  Sector: Information Technology
+  Symbol: WU
+  Watch: false
+WY:
+  CIK: 106535
+  Name: Weyerhaeuser
+  Sector: Real Estate
+  Symbol: WY
+  Watch: false
+WYNN:
+  CIK: 1174922
+  Name: Wynn Resorts
+  Sector: Consumer Discretionary
+  Symbol: WYNN
+  Watch: false
+XEL:
+  CIK: 72903
+  Name: Xcel Energy
+  Sector: Utilities
+  Symbol: XEL
+  Watch: false
+XLNX:
+  CIK: 743988
+  Name: Xilinx
+  Sector: Information Technology
+  Symbol: XLNX
+  Watch: false
+XOM:
+  CIK: 34088
+  Name: ExxonMobil
+  Sector: Energy
+  Symbol: XOM
+  Watch: false
+XRAY:
+  CIK: 818479
+  Name: Dentsply Sirona
+  Sector: Health Care
+  Symbol: XRAY
+  Watch: false
+XYL:
+  CIK: 1524472
+  Name: Xylem
+  Sector: Industrials
+  Symbol: XYL
+  Watch: false
+YUM:
+  CIK: 1041061
+  Name: Yum! Brands
+  Sector: Consumer Discretionary
+  Symbol: YUM
+  Watch: false
+ZBH:
+  CIK: 1136869
+  Name: Zimmer Biomet
+  Sector: Health Care
+  Symbol: ZBH
+  Watch: false
+ZBRA:
+  CIK: 877212
+  Name: Zebra Technologies
+  Sector: Information Technology
+  Symbol: ZBRA
+  Watch: false
+ZION:
+  CIK: 109380
+  Name: Zions Bancorp
+  Sector: Financials
+  Symbol: ZION
+  Watch: false
+ZTS:
+  CIK: 1555280
+  Name: Zoetis
+  Sector: Health Care
+  Symbol: ZTS
+  Watch: false
