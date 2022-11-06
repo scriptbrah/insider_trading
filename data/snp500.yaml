@@ -207,7 +207,7 @@ AMZN:
   Name: Amazon
   Sector: Consumer Discretionary
   Symbol: AMZN
-  Watch: false
+  Watch: true
 ANET:
   CIK: 1596532
   Name: Arista Networks
@@ -2031,7 +2031,7 @@ NVDA:
   Name: Nvidia
   Sector: Information Technology
   Symbol: NVDA
-  Watch: false
+  Watch: true
 NVR:
   CIK: 906163
   Name: NVR
@@ -2655,7 +2655,7 @@ TSLA:
   Name: Tesla
   Sector: Consumer Discretionary
   Symbol: TSLA
-  Watch: false
+  Watch: true
 TSN:
   CIK: 100493
   Name: Tyson Foods
